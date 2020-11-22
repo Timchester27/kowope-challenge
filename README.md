@@ -2,7 +2,7 @@
 Data Science Nigeria Artificial Intelligence HackathonSolution.
 
 Predict whether a customer will default on a loan.
-### DSN_KOWOPE: This repository contains my solution for the hackathon organised by Data Science Nigeria (DSN) on Zindi. (link to hackathon: https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon)..
+
 #### Aim: To help Kowope Mart to identify customers who are worthy of credit card, lines and loans by identifying which customers are at risk of defaulting in payment of loan.
 
 #### Objective: To develop a predictive model that determines the likelihood of a customer defaulting loan payment.
